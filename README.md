@@ -8,3 +8,7 @@ The objective of the script is that, known the parameters of the joints of the r
 The other files in the repository are all the functions needed in the script. In the beginning of each file there is its description commented.
 
 <img src="Images%20and%20gifs/3Rmotion.gif" width="500">
+
+<img src="Images%20and%20gifs/3RJointSpeeds.PNG" width="500">
+
+
