@@ -24,7 +24,7 @@ The following picture figure is the plot of each joint speed versus time.
 <img src="Images%20and%20gifs/3RJointSpeeds.PNG" width="500">
 
 
-I think that the process done to achieve this results can be easily understanded from the written code.
+I think that the process done can be easily understoodd from the written code.
 
 I've not been able to find time to do the optional part even if I had the intentions to do so. I may try to do it sometime in the near future.
 
