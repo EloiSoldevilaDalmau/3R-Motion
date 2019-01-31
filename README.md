@@ -9,13 +9,13 @@ The other files in the repository are all the functions needed in the script. In
 
 ## Results
 
-3R-motion
+  · 3R-motion
 
 In the following gif there is the representation of the robot arm performing the desired motion resulted from the script mentioned above.
 
 <img src="Images%20and%20gifs/3Rmotion.gif" width="500">
 
-Joint speeds versus time
+  · Joint speeds versus time
 
 The following picture figure is the plot of each joint speed versus time.
 
